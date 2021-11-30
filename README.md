@@ -1,13 +1,13 @@
 # Bas Tools
 - Simple Tools for Better Coding Experience
 # List
-- [Random](#Random-id)
+- [Random](#custom-id)
 - [Random](#RandomIDGen-id)
 - [DupCheck](#DupCheck-id)
 - [StringToNumber](#StringToNumber-id)
 - [RemoveDup](#RemoveDup-id)
 # Functions
-### Random {#Random-id}
+### Random {#custom-id}
 ```js
 const { Random } = require('bastools')
 const array = ["hello" , "hi"]
