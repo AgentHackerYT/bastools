@@ -1,0 +1,25 @@
+{
+  "name": "bastools",
+  "version": "2.0.0",
+  "description": "A Simple Module with Easy To Us Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AgentHackerYT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentHackerYT/bastools.git"
+  },
+  "keywords": [
+    "utils",
+    "bastool",
+    "easy-tools",
+    "Password"
+  ],
+  "bugs": {
+    "url": "https://github.com/AgentHackerYT/bastools/issues"
+  },
+  "homepage": "https://github.com/AgentHackerYT/bastools#readme"
+}
