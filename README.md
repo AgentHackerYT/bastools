@@ -1,4 +1,10 @@
 # Bas Tools
+<div align="center">
+
+<img src="https://logos.flamingtext.com/Name-Logos/Bas-design-sketch-name.png" width="200" height="200">
+
+</div>
+
 - Simple Tools for Better Coding Experience
 - Now There Are 18 Functions
 # Functions
